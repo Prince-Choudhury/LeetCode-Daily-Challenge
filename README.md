@@ -46,8 +46,8 @@ You are welcome to contribute to this repository by adding your solutions, expla
 
 If you have any questions, suggestions, or just want to connect, you can reach me on:
 
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Email: [Your Email Address](mailto:your@email.com)
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/prince-choudhury26?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ04JXZmARFylqCfzvMWx4Q%3D%3D)](Link to LinkedIn)
+- Email: [choudhuryprince19@gmail.com](mailto:your@email.com)
 
 Happy coding and keep practicing!
 
