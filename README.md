@@ -1,7 +1,7 @@
 <h1 align="center">LeetCode Daily Challenge</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python%20%7C%20Java%20%7C%20C%2B%2B-blue" alt="Languages">
+ <img src="https://img.shields.io/badge/Language-C%2B%2B-blue" alt="Language">
   <img src="https://img.shields.io/badge/LeetCode-Daily%20Challenge-orange" alt="LeetCode Challenge">
 </p>
 
@@ -17,7 +17,7 @@
 
 ## About
 
-In this repository, you will find a collection of solutions to LeetCode problems. The aim is to solve and add at least one problem each day. The solutions are organized by problem difficulty (Easy, Medium, Hard) and are available in Python, Java, and C++.
+In this repository, you will find a collection of solutions to LeetCode problems. The aim is to solve and add at least one problem each day. 
 
 ## Contributing
 
@@ -35,12 +35,5 @@ If you have any questions, suggestions, or just want to connect, you can reach m
 
 - LinkedIn: [https://www.linkedin.com/in/prince-choudhury26/](https://www.linkedin.com/in/prince-choudhury26?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ04JXZmARFylqCfzvMWx4Q%3D%3D)
 - Email: [choudhuryprince19@gmail.com](mailto:choudhuryprince19@gmail.com)
-
-Happy coding and keep practicing!
-
-If you have any questions, suggestions, or want to connect, you can reach me on:
-
-- LinkedIn: (https://www.linkedin.com/in/prince-choudhury26?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ04JXZmARFylqCfzvMWx4Q%3D%3D)
-- Email: (choudhuryprince19@gmail.com)
 
 Happy coding and keep practicing!
