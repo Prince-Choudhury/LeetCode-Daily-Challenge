@@ -37,3 +37,19 @@ If you have any questions, suggestions, or just want to connect, you can reach m
 - Email: [choudhuryprince19@gmail.com](mailto:choudhuryprince19@gmail.com)
 
 Happy coding and keep practicing!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+<!---LeetCode Topics End-->
