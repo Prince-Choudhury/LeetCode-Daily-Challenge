@@ -43,6 +43,7 @@ Happy coding and keep practicing!
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -68,4 +69,12 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [2554-minimum-total-distance-traveled](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2554-minimum-total-distance-traveled) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
