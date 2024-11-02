@@ -44,6 +44,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0724-find-pivot-index](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0724-find-pivot-index) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -81,4 +82,8 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
