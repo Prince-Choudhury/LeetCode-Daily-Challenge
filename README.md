@@ -48,6 +48,7 @@ Happy coding and keep practicing!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [2554-minimum-total-distance-traveled](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2554-minimum-total-distance-traveled) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
@@ -94,4 +96,8 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
