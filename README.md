@@ -45,6 +45,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0724-find-pivot-index) |
+| [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1755-defuse-the-bomb](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1755-defuse-the-bomb) |
@@ -73,6 +74,7 @@ Happy coding and keep practicing!
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
@@ -178,4 +180,8 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
