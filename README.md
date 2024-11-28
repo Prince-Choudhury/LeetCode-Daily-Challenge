@@ -57,6 +57,7 @@ Happy coding and keep practicing!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -80,6 +81,7 @@ Happy coding and keep practicing!
 | [1972-rotating-the-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
@@ -173,6 +175,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -185,10 +188,16 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
