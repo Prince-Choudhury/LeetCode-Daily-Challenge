@@ -213,6 +213,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -233,6 +234,7 @@ Happy coding and keep practicing!
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -242,8 +244,10 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
