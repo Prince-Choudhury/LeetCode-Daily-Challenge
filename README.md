@@ -241,6 +241,7 @@ Happy coding and keep practicing!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
@@ -263,6 +264,7 @@ Happy coding and keep practicing!
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -275,6 +277,7 @@ Happy coding and keep practicing!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0113-path-sum-ii) |
@@ -283,6 +286,7 @@ Happy coding and keep practicing!
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0113-path-sum-ii) |
