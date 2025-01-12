@@ -162,6 +162,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [2716-prime-subtraction-operation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -175,6 +176,7 @@ Happy coding and keep practicing!
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -290,6 +292,7 @@ Happy coding and keep practicing!
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2692-take-gifts-from-the-richest-pile) |
