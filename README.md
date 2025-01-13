@@ -43,6 +43,7 @@ Happy coding and keep practicing!
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0494-target-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -98,6 +99,7 @@ Happy coding and keep practicing!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1025-minimum-cost-for-tickets) |
