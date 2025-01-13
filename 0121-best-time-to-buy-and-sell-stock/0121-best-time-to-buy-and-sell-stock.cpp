@@ -1,13 +1,25 @@
 class Solution {
 public:
+
+    int solve(vector<int>&prices, int index, int size, int &min_price, int&maxprof){
+        if(index>=size){
+            return maxprof;
+        }
+
+        maxprof = max(maxprof,prices[index]-min_price);
+        min_price = min(prices[index],min_price);
+
+        return solve(prices, index+1, size, min_price, maxprof);
+    }
+
     int maxProfit(vector<int>& prices) {
+        int index = 1;
+        int size = prices.size();
         int min_price = prices[0];
         int maxprof = 0;
-
-        for(int i=1;i<prices.size();i++){
-            maxprof = max(maxprof,prices[i]-min_price);
-            min_price = min(prices[i],min_price);
-    }
-    return maxprof;
+        int ans = solve(prices, index, size, min_price, maxprof);
+        return ans;
     }
 };
+
+
