@@ -85,6 +85,7 @@ Happy coding and keep practicing!
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -230,6 +231,7 @@ Happy coding and keep practicing!
 | [1940-maximum-xor-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3394-minimum-array-end) |
@@ -246,6 +248,7 @@ Happy coding and keep practicing!
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
