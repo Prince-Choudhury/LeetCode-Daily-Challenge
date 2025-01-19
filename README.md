@@ -325,6 +325,7 @@ Happy coding and keep practicing!
 | [0102-binary-tree-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -356,6 +357,7 @@ Happy coding and keep practicing!
 | [0100-same-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -376,6 +378,7 @@ Happy coding and keep practicing!
 | [0102-binary-tree-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -392,6 +395,7 @@ Happy coding and keep practicing!
 | [0102-binary-tree-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
