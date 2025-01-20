@@ -235,6 +235,7 @@ Happy coding and keep practicing!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0476-number-complement](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0476-number-complement) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
