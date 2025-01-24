@@ -45,6 +45,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -139,6 +140,7 @@ Happy coding and keep practicing!
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -168,6 +170,7 @@ Happy coding and keep practicing!
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -181,6 +184,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [2716-prime-subtraction-operation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -244,6 +248,7 @@ Happy coding and keep practicing!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0476-number-complement) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -258,6 +263,7 @@ Happy coding and keep practicing!
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1502-construct-k-palindrome-strings) |
