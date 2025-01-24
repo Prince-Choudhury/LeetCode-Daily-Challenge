@@ -350,6 +350,7 @@ Happy coding and keep practicing!
 | [0407-trapping-rain-water-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1876-map-of-highest-peak) |
@@ -362,6 +363,7 @@ Happy coding and keep practicing!
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -386,6 +388,7 @@ Happy coding and keep practicing!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -477,4 +480,8 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
