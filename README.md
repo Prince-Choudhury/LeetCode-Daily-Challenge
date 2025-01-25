@@ -43,6 +43,7 @@ Happy coding and keep practicing!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
@@ -263,6 +264,7 @@ Happy coding and keep practicing!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
