@@ -44,6 +44,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
@@ -171,6 +172,7 @@ Happy coding and keep practicing!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
@@ -192,6 +194,7 @@ Happy coding and keep practicing!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1972-rotating-the-box) |
