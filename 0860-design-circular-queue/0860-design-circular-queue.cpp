@@ -11,66 +11,74 @@ public:
         size = k;
         arr = new int[size];
     }
-    
+
     bool enQueue(int value) {
+        // Check if the queue is full
         if (isFull()) {
             return false;
         }
 
-        if (isEmpty()) {
-            front = 0;
+        // First element insertion
+        if (front == -1 && rear == -1) {
+            front++;
+            rear++;
+        }
+        // Wrap rear to the beginning if needed
+        else if (rear == size - 1 && front != 0) {
+            rear = 0;
+        }
+        // Regular case: move rear forward
+        else {
+            rear++;
         }
 
-        rear = (rear + 1) % size; // Move rear in a circular manner
-        arr[rear] = value;
+        arr[rear] = value; // Insert the value
         return true;
     }
-    
+
     bool deQueue() {
+        // Check if the queue is empty
         if (isEmpty()) {
             return false;
         }
 
-        if (front == rear) { // Single element left
+        // Single element in the queue
+        if (front == rear) {
             front = -1;
             rear = -1;
-        } else {
-            front = (front + 1) % size; // Move front in a circular manner
+        }
+        // Wrap front to the beginning if needed
+        else if (front == size - 1) {
+            front = 0;
+        }
+        // Regular case: move front forward
+        else {
+            front++;
         }
 
         return true;
     }
-    
+
     int Front() {
         if (isEmpty()) {
             return -1;
         }
         return arr[front];
     }
-    
+
     int Rear() {
         if (isEmpty()) {
             return -1;
         }
         return arr[rear];
     }
-    
+
     bool isEmpty() {
-        return front == -1;
+        return (front == -1 && rear == -1);
     }
-    
+
     bool isFull() {
-        return (rear + 1) % size == front;
+        // Check if the queue is full in a circular way
+        return ((rear + 1) % size == front);
     }
 };
-
-/**
- * Your MyCircularQueue object will be instantiated and called as such:
- * MyCircularQueue* obj = new MyCircularQueue(k);
- * bool param_1 = obj->enQueue(value);
- * bool param_2 = obj->deQueue();
- * int param_3 = obj->Front();
- * int param_4 = obj->Rear();
- * bool param_5 = obj->isEmpty();
- * bool param_6 = obj->isFull();
- */
