@@ -46,6 +46,7 @@ Happy coding and keep practicing!
 | [0001-two-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0407-trapping-rain-water-ii) |
@@ -173,6 +174,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
@@ -268,6 +270,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -286,6 +289,7 @@ Happy coding and keep practicing!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2300-construct-string-with-repeat-limit) |
@@ -489,4 +493,8 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
