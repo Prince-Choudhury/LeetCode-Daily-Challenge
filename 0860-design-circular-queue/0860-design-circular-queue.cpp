@@ -4,81 +4,101 @@ public:
     int rear;
     int size;
     int *arr;
-
     MyCircularQueue(int k) {
         front = -1;
         rear = -1;
         size = k;
         arr = new int[size];
     }
-
+    
     bool enQueue(int value) {
-        // Check if the queue is full
-        if (isFull()) {
+        if((front == 0 && rear == size-1) || (rear +1 == front)){
             return false;
         }
 
-        // First element insertion
-        if (front == -1 && rear == -1) {
+        else if(front == -1 && rear == -1){
             front++;
             rear++;
+            arr[rear] = value;
+            return true;
         }
-        // Wrap rear to the beginning if needed
-        else if (rear == size - 1 && front != 0) {
+
+        else if(front!= 0 && rear == size-1){
             rear = 0;
+            arr[rear] = value;
+            return true;
         }
-        // Regular case: move rear forward
-        else {
+        else{
             rear++;
+            arr[rear] = value;
+            return true;
         }
-
-        arr[rear] = value; // Insert the value
-        return true;
     }
-
+    
     bool deQueue() {
-        // Check if the queue is empty
-        if (isEmpty()) {
+        if(front == -1 && rear == -1){
             return false;
         }
 
-        // Single element in the queue
-        if (front == rear) {
+        else if(front == rear){
+            arr[front] = -1;
             front = -1;
             rear = -1;
+            return true;
         }
-        // Wrap front to the beginning if needed
-        else if (front == size - 1) {
+
+        else if(front == size - 1 && rear!=size-1){
+            arr[front] = -1;
             front = 0;
+            return true;
         }
-        // Regular case: move front forward
-        else {
+        else{
+            arr[front] = -1;
             front++;
+            return true;
+
         }
-
-        return true;
     }
-
+    
     int Front() {
-        if (isEmpty()) {
+        if(front == -1 && rear == -1){
             return -1;
         }
-        return arr[front];
+        else{
+            return arr[front];
+        }
     }
-
+    
     int Rear() {
-        if (isEmpty()) {
+        if(front == -1 && rear == -1){
             return -1;
         }
-        return arr[rear];
+        else{
+            return arr[rear];
+        }
     }
-
+    
     bool isEmpty() {
-        return (front == -1 && rear == -1);
+        return (front == -1 && rear ==-1 ) ? true : false;
     }
-
+    
     bool isFull() {
-        // Check if the queue is full in a circular way
-        return ((rear + 1) % size == front);
+        if((front == 0 && rear == size-1) || (rear +1 == front)){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 };
+
+/**
+ * Your MyCircularQueue object will be instantiated and called as such:
+ * MyCircularQueue* obj = new MyCircularQueue(k);
+ * bool param_1 = obj->enQueue(value);
+ * bool param_2 = obj->deQueue();
+ * int param_3 = obj->Front();
+ * int param_4 = obj->Rear();
+ * bool param_5 = obj->isEmpty();
+ * bool param_6 = obj->isFull();
+ */
