@@ -373,6 +373,7 @@ Happy coding and keep practicing!
 | [0820-find-eventual-safe-states](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -385,6 +386,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -411,6 +413,7 @@ Happy coding and keep practicing!
 | [0543-diameter-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -507,6 +510,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Divide and Conquer
 |  |
