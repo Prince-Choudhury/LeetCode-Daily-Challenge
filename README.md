@@ -56,6 +56,7 @@ Happy coding and keep practicing!
 | [0724-find-pivot-index](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
+| [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
@@ -322,6 +323,7 @@ Happy coding and keep practicing!
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2868-continuous-subarrays) |
@@ -514,9 +516,11 @@ Happy coding and keep practicing!
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
