@@ -73,7 +73,7 @@ public:
             rear = -1;
             return true;
         }
-        else if(front == size-1){
+        else if(rear != size-1 && front == size-1){
             arr[front] = -1;
             front = 0;
             return true;
