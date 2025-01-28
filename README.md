@@ -44,6 +44,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -203,6 +204,7 @@ Happy coding and keep practicing!
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
