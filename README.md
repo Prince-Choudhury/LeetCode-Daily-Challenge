@@ -550,5 +550,6 @@ Happy coding and keep practicing!
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
