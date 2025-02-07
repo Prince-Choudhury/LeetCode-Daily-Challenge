@@ -61,6 +61,7 @@ Happy coding and keep practicing!
 | [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1025-minimum-cost-for-tickets) |
@@ -162,6 +163,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
