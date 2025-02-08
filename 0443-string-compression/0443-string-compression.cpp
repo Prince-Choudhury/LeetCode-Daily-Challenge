@@ -15,12 +15,12 @@ public:
                 
                 if (count > 1) {
                     string temp = to_string(count);
-                    ans += s[i];
+                    ans += ch;
                     ans += temp;
                     i=i+1;
                 }
             }else{
-                ans+=s[i];
+                ans+=ch;
                 i++;
             }
         }
