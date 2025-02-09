@@ -1,20 +1,19 @@
-
-
 class Solution {
 public:
-    long long countBadPairs(std::vector<int>& nums) {
+    long long countBadPairs(vector<int>& nums) {
         long long n = nums.size();
-        long long totalPairs = (n * (n - 1)) / 2; // Total pairs (nC2)
-
-        std::unordered_map<int, long long> freq;
         long long goodPairs = 0;
+        long long totalPairs = (n*(n-1))/2; //nc2
 
-        for (int i = 0; i < n; i++) {
+        unordered_map<int, long long> mp;
+
+        for(int i = 0; i<n; i++){
             int key = nums[i] - i;
-            goodPairs += freq[key]; 
-            freq[key]++; 
+            goodPairs+= mp[key];
+            mp[key]++;
         }
 
-        return totalPairs - goodPairs; 
+        return totalPairs - goodPairs;
+
     }
 };
