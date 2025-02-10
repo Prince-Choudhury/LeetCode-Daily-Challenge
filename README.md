@@ -186,6 +186,7 @@ Happy coding and keep practicing!
 | [1502-construct-k-palindrome-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1917-maximum-average-pass-ratio) |
+| [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2300-construct-string-with-repeat-limit) |
@@ -216,6 +217,7 @@ Happy coding and keep practicing!
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
+| [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -249,6 +251,7 @@ Happy coding and keep practicing!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
