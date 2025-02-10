@@ -1,9 +1,19 @@
 class Solution {
 public:
     string largestOddNumber(string num) {
-        while (!num.empty() && (num.back() - '0') % 2 == 0) {
-            num.pop_back();  
+        int i=num.size()-1;
+        int index =-1;
+        while(i>=0){
+            int ele = num[i] -'0';
+            if(ele%2 ==1)
+            {
+                index = i;
+                break;
+            }
+            i--;
         }
-        return num;  
+        if(index ==-1) return "";
+        num =num.substr(0,index+1);
+        return num;
     }
 };
