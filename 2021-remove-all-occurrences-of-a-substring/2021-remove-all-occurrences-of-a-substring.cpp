@@ -69,12 +69,19 @@ public:
 
         return -1;
     }
-
+    void solve(string &s, string part)
+    {
+        if(!applyKMP(s,part))
+        {
+            return;
+        }else{
+            int index =findIndex(s,part);
+            s.erase(index,part.size());
+            solve(s,part);
+        }
+    }
     string removeOccurrences(string s, string part) {
-            while(applyKMP(s, part)){
-                int index = findIndex(s, part);
-                s.erase(index, part.size());
-            }
+        solve(s,part);
         
         return s;
     }
