@@ -120,6 +120,7 @@ Happy coding and keep practicing!
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3427-special-array-ii) |
