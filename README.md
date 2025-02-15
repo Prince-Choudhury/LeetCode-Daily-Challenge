@@ -226,6 +226,7 @@ Happy coding and keep practicing!
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -522,6 +523,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0113-path-sum-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Ordered Set
 |  |
 | ------- |
