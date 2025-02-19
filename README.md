@@ -203,6 +203,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
@@ -235,6 +236,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0031-next-permutation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0443-string-compression) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -600,10 +602,12 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 | [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 ## Design
@@ -626,4 +630,8 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
