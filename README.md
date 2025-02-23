@@ -64,6 +64,7 @@ Happy coding and keep practicing!
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1063-best-sightseeing-pair) |
@@ -330,6 +331,7 @@ Happy coding and keep practicing!
 | [0128-longest-consecutive-sequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
@@ -516,6 +518,7 @@ Happy coding and keep practicing!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -535,6 +538,7 @@ Happy coding and keep practicing!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -617,6 +621,7 @@ Happy coding and keep practicing!
 | [0053-maximum-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
