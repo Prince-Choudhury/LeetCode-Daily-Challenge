@@ -75,6 +75,7 @@ Happy coding and keep practicing!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -144,6 +145,7 @@ Happy coding and keep practicing!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1063-best-sightseeing-pair) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
@@ -229,6 +231,7 @@ Happy coding and keep practicing!
 | [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
@@ -293,6 +296,7 @@ Happy coding and keep practicing!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
