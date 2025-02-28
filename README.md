@@ -148,6 +148,7 @@ Happy coding and keep practicing!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -265,6 +266,7 @@ Happy coding and keep practicing!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
