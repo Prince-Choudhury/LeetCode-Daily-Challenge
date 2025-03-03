@@ -97,6 +97,7 @@ Happy coding and keep practicing!
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -255,6 +256,7 @@ Happy coding and keep practicing!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -439,6 +441,7 @@ Happy coding and keep practicing!
 | [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2551-apply-operations-to-an-array) |
