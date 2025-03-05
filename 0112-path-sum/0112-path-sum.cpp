@@ -11,33 +11,27 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* root, int targetSum, int sum){
-        //Base case
+
+    bool solve(TreeNode* root, int target, int sum){
         if(root == NULL){
             return false;
         }
 
-        sum += root->val;
+        sum = sum + root->val;
+        
+
         if(root->left == NULL && root->right == NULL){
-            //I am currently standing on a leaf Node
-            //Verify
-            if(sum == targetSum){
+            if(sum == target){
                 return true;
-            }
-            else{
-                return false;
             }
         }
 
-        bool leftAns = solve(root->left, targetSum, sum);
-        bool rightAns = solve(root->right, targetSum, sum);
-        return leftAns || rightAns;
+        bool lans = solve(root->left, target, sum);
+        bool rans = solve(root->right, target, sum);
+
+        return lans || rans;
     }
-    
-    bool hasPathSum(TreeNode* root, int targetSum) {
-        int sum = 0;
-        bool ans = solve(root, targetSum, sum);
-        return ans;
-        
+    bool hasPathSum(TreeNode* root, int target) {
+        return solve(root, target, 0);
     }
 };
