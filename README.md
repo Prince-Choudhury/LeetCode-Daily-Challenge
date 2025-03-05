@@ -243,6 +243,7 @@ Happy coding and keep practicing!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
