@@ -44,6 +44,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0073-set-matrix-zeroes) |
@@ -250,6 +251,7 @@ Happy coding and keep practicing!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
