@@ -1,47 +1,53 @@
+#include <vector>
+#include <climits> 
+
 class Solution {
 public:
-    vector<int> closestPrimes(int left, int right) {
-        vector<int>arr;
-        int len = right - left + 1;
-        for(int i = left; i<=right; i++){
-            arr.push_back(i);
-        }
+    vector<bool> solve(int right) {
+        vector<bool> isPrime(right + 1, true);
+        isPrime[0] = isPrime[1] = false; // 0 and 1 are not prime
 
-        vector<int>ans;
-        for(int i = 0; i<arr.size(); i++){
-            int num = arr[i];
-            bool isTrue = true;
-
-            if(num<2) continue;
-
-            for(int j = 2; j*j<=num; j++){
-                if(num % j == 0){
-                    isTrue = false;
-                    break;
+        for (int i = 2; i * i <= right; i++) {
+            if (isPrime[i]) {
+                for (int j = i * i; j <= right; j += i) { // Start from i*i
+                    isPrime[j] = false;
                 }
             }
-
-            if(isTrue){
-                ans.push_back(num);
-            }
-
         }
+        return isPrime;
+    }
 
-        if(ans.size()<=1){
-            return {-1, -1};
-        }
+    vector<int> closestPrimes(int left, int right) {
+        vector<bool> mp = solve(right);
+        int leftans = -1, rightans = -1;
+        vector<int> ans;
+        vector<int> v;
 
-        int minDiff = INT_MAX;
-        int index = -1;
-
-        for (int i = 0; i < ans.size() - 1; i++) {
-            int diff = ans[i + 1] - ans[i];
-            if (diff < minDiff) {
-                minDiff = diff;
-                index = i;
+        for (int i = left; i <= right; i++) {
+            if (mp[i]) { // No need for `== true`
+                v.push_back(i);
             }
         }
 
-        return {ans[index], ans[index + 1]};
+        // Ensure we have at least two primes before finding the closest pair
+        if (v.size() < 2) {
+            ans.push_back(leftans);
+            ans.push_back(rightans);
+            return ans;
+        }
+
+        int dif = INT_MAX; // Fix: Set to INT_MAX instead of right - left
+        for (int i = 0; i < v.size() - 1; i++) {
+            int newdif = v[i + 1] - v[i];
+            if (newdif < dif) {
+                dif = newdif;
+                leftans = v[i];
+                rightans = v[i + 1];
+            }
+        }
+
+        ans.push_back(leftans);
+        ans.push_back(rightans);
+        return ans;
     }
 };
