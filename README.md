@@ -283,6 +283,7 @@ Happy coding and keep practicing!
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1524-string-matching-in-an-array) |
@@ -366,6 +367,7 @@ Happy coding and keep practicing!
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -405,6 +407,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
