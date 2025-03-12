@@ -238,6 +238,7 @@ Happy coding and keep practicing!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
