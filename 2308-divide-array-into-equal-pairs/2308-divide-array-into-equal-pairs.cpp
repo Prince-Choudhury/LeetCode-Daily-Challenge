@@ -1,14 +1,18 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        unordered_map<int, int>mpp;
 
-        for(int i = 1; i<nums.size(); i = i+2){
-            if(nums[i]!=nums[i-1]){
+        for(int i = 0; i<nums.size(); i++){
+            mpp[nums[i]]++;
+        }
+
+        for(auto it = mpp.begin(); it!=mpp.end(); it++){
+            if(it->second & 1){
                 return false;
             }
         }
-
+        
         return true;
     }
 };
