@@ -1,37 +1,32 @@
-/*
 class Solution {
 public:
-    void rotate(vector<int>& nums, int k) {
-        int n = nums.size();
+    void rotate(vector<int>& arr, int k) {
 
-        vector<int>ans(n);
-
-        for(int index = 0; index<n; index++){
-            int newIndex = (index + k)%n;
-            ans[newIndex] = nums[index];
-        }
-
-        nums = ans;
-    }
-};
-*/
-class Solution {
-public:
-    void rotate(vector<int>& nums, int k) {
-        int n = nums.size();
-        k = k % n;  // In case k is larger than the array size
-        vector<int> temp(k);  
-
-        for(int i = 0; i < k; i++) {
-            temp[i] = nums[n - k + i];
-        }
-
-        for(int i = n - 1; i >= k; i--) {
-            nums[i] = nums[i - k];
-        }
+        k = k%arr.size();
         
-        for(int i = 0; i < k; i++) {
-            nums[i] = temp[i];
+        if(k>=arr.size()){
+            return;
         }
+
+        vector<int>arr1(arr.size()-k);
+        
+        int index = k;
+        int n = arr.size()-1;
+        while(k!=0){
+            int ele = arr[n];
+            arr.pop_back();
+            arr1.push_back(ele);
+            k--;
+            n--;
+        }
+
+        reverse(arr1.begin(), arr1.end());
+
+        for(int i = 0; i<arr.size(); i++){
+            arr1[index] = arr[i];
+            index++;
+        }
+
+        arr = arr1;
     }
 };
