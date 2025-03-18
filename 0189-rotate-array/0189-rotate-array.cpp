@@ -1,32 +1,14 @@
 class Solution {
 public:
     void rotate(vector<int>& arr, int k) {
+        int n = arr.size();
+        k = k% n;
 
-        k = k%arr.size();
-        
-        if(k>=arr.size()){
-            return;
-        }
+        //Entire array
+        reverse(arr.begin(), arr.end()); 
 
-        vector<int>arr1(arr.size()-k);
-        
-        int index = k;
-        int n = arr.size()-1;
-        while(k!=0){
-            int ele = arr[n];
-            arr.pop_back();
-            arr1.push_back(ele);
-            k--;
-            n--;
-        }
+        reverse(arr.begin(), arr.begin()+k);
 
-        reverse(arr1.begin(), arr1.end());
-
-        for(int i = 0; i<arr.size(); i++){
-            arr1[index] = arr[i];
-            index++;
-        }
-
-        arr = arr1;
+        reverse(arr.begin()+k, arr.end());
     }
 };
