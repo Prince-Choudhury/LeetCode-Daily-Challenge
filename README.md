@@ -53,6 +53,7 @@ Happy coding and keep practicing!
 | [0128-longest-consecutive-sequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
@@ -161,6 +162,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
