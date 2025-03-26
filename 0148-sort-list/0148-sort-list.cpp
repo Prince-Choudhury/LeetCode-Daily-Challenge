@@ -12,14 +12,15 @@
 class Solution {
 public:
 
-    ListNode* solve(ListNode* head, vector<int>arr){
+    ListNode* solve(ListNode* head, priority_queue<int, vector<int>, greater<int>>&pq){
         ListNode* dummy = new ListNode(-1);
         ListNode* node = dummy;
 
         ListNode* temp = head;
 
-        for(int i = 0; i<arr.size(); i++){
-            ListNode* newNode = new ListNode(arr[i]);
+        while(!pq.empty()){
+            ListNode* newNode = new ListNode(pq.top());
+            pq.pop();
             node->next = newNode;
             node = newNode;
         }
@@ -37,16 +38,15 @@ public:
             return head;
         }
 
-        vector<int>arr;
+        priority_queue<int, vector<int>, greater<int>>pq;
 
         ListNode* temp = head;
+
         while(temp){
-            arr.push_back(temp->val);
+            pq.push(temp->val);
             temp = temp->next;
         }
 
-        sort(arr.begin(), arr.end());
-
-        return solve(head, arr);
+        return solve(head, pq);
     }
 };
