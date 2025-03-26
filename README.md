@@ -96,6 +96,7 @@ Happy coding and keep practicing!
 | [2089-maximum-matrix-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -191,6 +192,7 @@ Happy coding and keep practicing!
 | [1972-rotating-the-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2685-first-completely-painted-row-or-column) |
@@ -245,6 +247,7 @@ Happy coding and keep practicing!
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -270,6 +273,7 @@ Happy coding and keep practicing!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2649-count-total-number-of-colored-cells) |
