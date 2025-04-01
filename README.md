@@ -302,6 +302,7 @@ Happy coding and keep practicing!
 | [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0768-partition-labels) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -678,6 +679,7 @@ Happy coding and keep practicing!
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -750,6 +752,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 ## Design
@@ -781,4 +784,5 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
