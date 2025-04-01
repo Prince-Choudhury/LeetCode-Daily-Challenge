@@ -10,16 +10,25 @@
  */
 class Solution {
 public:
+
+    void solve(ListNode* head, ListNode* &curr, ListNode* &prev){
+        if(curr == NULL){
+            return;
+        }
+
+        ListNode* nextNode = curr->next;
+        curr->next = prev;
+        prev = curr;
+        curr = nextNode;
+
+        solve(head, curr, prev);
+
+    }
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
         ListNode* curr = head;
 
-        while(curr){
-            ListNode* nextNode = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextNode;
-        }
+        solve(head, curr, prev);
 
         return prev;
     }
