@@ -749,6 +749,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
 | [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 ## Design
@@ -776,4 +777,8 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
