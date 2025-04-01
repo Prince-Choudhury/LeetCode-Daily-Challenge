@@ -54,6 +54,7 @@ Happy coding and keep practicing!
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
@@ -254,6 +255,7 @@ Happy coding and keep practicing!
 | [0075-sort-colors](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
@@ -500,6 +502,7 @@ Happy coding and keep practicing!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -750,6 +753,7 @@ Happy coding and keep practicing!
 | [0053-maximum-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Linked List
 |  |
@@ -790,4 +794,8 @@ Happy coding and keep practicing!
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0234-palindrome-linked-list) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
