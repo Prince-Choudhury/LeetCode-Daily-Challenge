@@ -1,25 +1,18 @@
 class Solution {
 public:
     int findKthLargest(vector<int>& arr, int k) {
+        priority_queue<int, vector<int>, greater<int>>pq;
 
-        if(k == 1 && arr.size() == 1){
-            return arr[0];
-        }
-        priority_queue<int>pq;
-        int n = arr.size();
-
-        k = k%n;
-
-        for(auto x : arr){
-            pq.push(x);
+        for(int i = 0; i<k; i++){
+            pq.push(arr[i]);
         }
 
-        while(k!=1 && !pq.empty()){
-            k--;
-            pq.pop();
+        for(int i = k; i<arr.size(); i++){
+            if(arr[i]>pq.top()){
+                pq.pop();
+                pq.push(arr[i]);
+            }
         }
-
-        cout<<pq.top();
 
         return pq.top();
     }
