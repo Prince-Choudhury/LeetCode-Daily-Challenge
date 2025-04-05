@@ -95,6 +95,7 @@ Happy coding and keep practicing!
 | [1927-maximum-ascending-subarray-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2089-maximum-matrix-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2145-grid-game) |
@@ -294,6 +295,7 @@ Happy coding and keep practicing!
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2448-count-number-of-bad-pairs) |
@@ -403,6 +405,7 @@ Happy coding and keep practicing!
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0476-number-complement) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -689,6 +692,7 @@ Happy coding and keep practicing!
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -817,4 +821,12 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
