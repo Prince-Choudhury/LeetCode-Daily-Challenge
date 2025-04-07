@@ -1,80 +1,28 @@
 class Solution {
 public:
-
-    /*
-    //1. Using Recursion
-    int solve(vector<int>arr, int n){
-        if(n<0){
-            return 0;
-        }
-
-        //Include
-        int incAns = arr[n] + solve(arr, n-2);
-
-        //Exclude
-        int excAns = 0 + solve(arr, n-1);
-
-        return max(incAns, excAns);
-    }*/
-
-
-
-    /*
-
-    //Uisng Recursion + Memo.
-    int solveUsingMem(vector<int> arr, vector<int>&dp, int index){
+    int solve(vector<int>arr, int index, vector<int>&dp){
         if(index>=arr.size()){
             return 0;
         }
 
-        if(dp[index]!=-1){
+        if(dp[index] != -1){
             return dp[index];
         }
 
-        //Include
-        int incAns = arr[index] + solveUsingMem(arr, dp, index+2);
+        int include = arr[index] + solve(arr, index+2, dp);
+        
+        int exclude = 0 + solve(arr, index + 1, dp);
+        
+        int ans = max(include, exclude);
 
-        //Exclude
-        int excAns = 0 + solveUsingMem(arr, dp, index+1);
+        dp[index] = ans;
 
-        dp[index] = max(incAns, excAns);
-
-        return dp[index];
-
-    }*/
-
-
-    //Using Tabulationg
-
-    int solve(vector<int>arr, vector<int>&dp, int n){
-        dp[n-1] = arr[n-1];
-
-        for(int index = n-2; index>=0; index--){
-            int temp = 0;
-
-            //Include
-            if(index+2<n){
-                temp = dp[index+2];
-            }
-            int incAns = arr[index] + temp;
-            
-
-            //Exclude
-            int excAns = 0 + dp[index+1];
-
-            dp[index] = max(incAns, excAns);
-
-        }
-
-        return dp[0];
+        return ans;
     }
-
-
 
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int>dp(n, -1);
-
-        return solve(nums, dp, n);
+        vector<int>dp(n+1, -1);
+        return solve(nums, 0, dp);
     }
 };
