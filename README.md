@@ -60,6 +60,7 @@ Happy coding and keep practicing!
 | [0322-coin-change](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -180,6 +181,7 @@ Happy coding and keep practicing!
 | [0213-house-robber-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
