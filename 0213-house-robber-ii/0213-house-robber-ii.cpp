@@ -1,7 +1,7 @@
 class Solution {
 public:
     int solve(vector<int>arr, int index, vector<int>&dp){
-        if(index>=arr.size()){
+        if(index<0){
             return 0;
         }
 
@@ -9,9 +9,9 @@ public:
             return dp[index];
         }
 
-        int include = arr[index] + solve(arr, index+2, dp);
+        int include = arr[index] + solve(arr, index-2, dp);
 
-        int exclude = 0 + solve(arr, index + 1, dp);
+        int exclude = 0 + solve(arr, index - 1, dp);
 
         int ans = max(include, exclude);
 
@@ -40,8 +40,8 @@ public:
         vector<int>dp1(n, -1);
         vector<int>dp2(n, -1);
 
-        int ans1 = solve(arr1, 0, dp1);
-        int ans2 = solve(arr2, 0, dp2);
+        int ans1 = solve(arr1, arr1.size() - 1, dp1);
+        int ans2 = solve(arr2, arr2.size() - 1, dp2);
 
         return max(ans1, ans2);
     }
