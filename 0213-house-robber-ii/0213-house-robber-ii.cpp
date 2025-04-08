@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(vector<int>arr, int index, vector<int>&dp){
+    int solve(vector<int>arr, int index){
     
         int prev = arr[index];
         int next = 0;
@@ -43,11 +43,8 @@ public:
             arr2.push_back(nums[i]);
         }
 
-        vector<int>dp1(n, -1);
-        vector<int>dp2(n, -1);
-
-        int ans1 = solve(arr1, arr1.size() - 1, dp1);
-        int ans2 = solve(arr2, arr2.size() - 1, dp2);
+        int ans1 = solve(arr1, arr1.size() - 1);
+        int ans2 = solve(arr2, arr2.size() - 1);
 
         return max(ans1, ans2);
     }
