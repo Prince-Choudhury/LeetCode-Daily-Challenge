@@ -1,23 +1,24 @@
 class Solution {
 public:
     int solve(vector<int>arr, int index, vector<int>&dp){
-        if(index<0){
-            return 0;
+    
+        dp[index] = arr[index];
+
+        for(int i = index-1; i>=0; i--){
+            int temp = 0;
+
+            if(i+2<arr.size()){
+                temp = dp[i+2];
+            }
+
+            int include = arr[i] + temp;
+
+            int exclude = 0 + dp[i+1];
+
+            dp[i] = max(include, exclude);
         }
 
-        if(dp[index]!=-1){
-            return dp[index];
-        }
-
-        int include = arr[index] + solve(arr, index-2, dp);
-
-        int exclude = 0 + solve(arr, index - 1, dp);
-
-        int ans = max(include, exclude);
-
-        dp[index] = ans;
-
-        return ans;
+        return dp[0];
     }
 
     int rob(vector<int>& nums) {
