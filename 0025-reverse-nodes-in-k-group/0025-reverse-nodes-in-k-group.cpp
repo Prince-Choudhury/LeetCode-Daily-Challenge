@@ -77,6 +77,9 @@ public:
 
 */
 
+
+/*
+
 class Solution {
 public:
 
@@ -105,6 +108,71 @@ public:
 
         for(int i = 0; i<arr.size(); i++){
             ListNode* newNode = new ListNode(arr[i]);
+            temp->next = newNode;
+            temp = newNode;
+        }
+
+        return dummy->next;
+    }
+};*/
+
+
+class Solution {
+public:
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        if(head == NULL || head->next == NULL || k == 0 || k == 1){
+            return head;
+        }
+
+        vector<int>arr;
+        ListNode* temp = head;
+
+        while(temp){
+            arr.push_back(temp->val);
+            temp = temp->next;
+        }
+
+        vector<int>arr1;
+        int i = 0;
+        int j = k-1;
+
+        int n = arr.size();
+        while(i<n && j<n){
+            if(i+k<=n){
+                i = i+k;
+            }
+
+            else{
+                break;
+            }
+
+            int count = k;
+            while(count!=0){
+                count--;
+                arr1.push_back(arr[j]);
+                j--;
+            }
+
+            if(i+k-1<n){
+                j = i+k-1;
+            }
+            else{
+                break;
+            }
+
+        }
+
+        while(i<n){
+            arr1.push_back(arr[i]);
+            i++;
+        }
+
+        ListNode* dummy = new ListNode(-1);
+
+        temp = dummy;
+
+        for(int i = 0; i<arr1.size(); i++){
+            ListNode* newNode = new ListNode(arr1[i]);
             temp->next = newNode;
             temp = newNode;
         }
