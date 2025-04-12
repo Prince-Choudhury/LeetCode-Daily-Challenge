@@ -58,6 +58,7 @@ Happy coding and keep practicing!
 | [0198-house-robber](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0368-largest-divisible-subset) |
@@ -275,6 +276,7 @@ Happy coding and keep practicing!
 | [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
@@ -449,6 +451,7 @@ Happy coding and keep practicing!
 | [0141-linked-list-cycle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -490,6 +493,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0229-majority-element-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
