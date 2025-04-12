@@ -23,9 +23,11 @@ public:
                     }
 
                     st.insert(temp);
+                    j++;
+                    k--;
                 }
 
-                if(sum<0){
+                else if(sum<0){
                     j++;
                 }
 
