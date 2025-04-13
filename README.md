@@ -316,6 +316,7 @@ Happy coding and keep practicing!
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2610-closest-prime-numbers-in-range) |
@@ -847,6 +848,7 @@ Happy coding and keep practicing!
 | [0025-reverse-nodes-in-k-group](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2050-count-good-numbers) |
 ## Quickselect
 |  |
 | ------- |
