@@ -67,6 +67,7 @@ Happy coding and keep practicing!
 | [0416-partition-equal-subset-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
@@ -404,6 +405,7 @@ Happy coding and keep practicing!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
@@ -458,6 +460,7 @@ Happy coding and keep practicing!
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
