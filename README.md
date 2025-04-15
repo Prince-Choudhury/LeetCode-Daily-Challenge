@@ -117,6 +117,7 @@ Happy coding and keep practicing!
 | [2262-solving-questions-with-brainpower](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2308-divide-array-into-equal-pairs) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -242,6 +243,7 @@ Happy coding and keep practicing!
 | [2164-two-best-non-overlapping-events](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2665-minimum-time-to-repair-cars) |
@@ -735,6 +737,7 @@ Happy coding and keep practicing!
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2868-continuous-subarrays) |
 ## Stack
@@ -760,10 +763,12 @@ Happy coding and keep practicing!
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Trie
 |  |
@@ -809,6 +814,7 @@ Happy coding and keep practicing!
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2280-count-good-triplets-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -846,6 +852,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0148-sort-list) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2280-count-good-triplets-in-an-array) |
 ## Recursion
 |  |
 | ------- |
