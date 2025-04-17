@@ -5,26 +5,21 @@ public:
 
         int maxi = INT_MIN;
 
-        int product = 1;
+        int pref = 1;
+        int suff = 1;
 
-        for(auto i : arr){
-            product = product* i;
-            maxi = max(maxi, product);
+        for(int i = 0; i<n; i++){
+            pref = pref * arr[i];
+            suff = suff * arr[n-i-1];
 
-            if(product == 0){
-                product = 1;
+            maxi = max({maxi, pref, suff});
+
+            if(pref == 0){
+                pref = 1;
             }
-        }
 
-        product = 1;
-
-        for(int i = n-1; i>=0; i--){
-            product = product * arr[i];
-
-            maxi = max(maxi, product);
-
-            if(product == 0){
-                product = 1;
+            if(suff == 0){
+                suff = 1;
             }
         }
 
