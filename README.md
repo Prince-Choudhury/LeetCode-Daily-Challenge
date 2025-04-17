@@ -54,6 +54,7 @@ Happy coding and keep practicing!
 | [0118-pascals-triangle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0198-house-robber) |
@@ -188,6 +189,7 @@ Happy coding and keep practicing!
 | [0070-climbing-stairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0322-coin-change) |
