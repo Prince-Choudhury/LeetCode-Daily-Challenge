@@ -365,6 +365,7 @@ Happy coding and keep practicing!
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0038-count-and-say) |
 | [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
