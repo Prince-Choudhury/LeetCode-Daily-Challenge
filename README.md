@@ -75,6 +75,7 @@ Happy coding and keep practicing!
 | [0724-find-pivot-index](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -266,6 +267,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0768-partition-labels](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1917-maximum-average-pass-ratio) |
@@ -323,6 +325,7 @@ Happy coding and keep practicing!
 | [0368-largest-divisible-subset](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
+| [0797-rabbits-in-forest](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -474,6 +477,7 @@ Happy coding and keep practicing!
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
