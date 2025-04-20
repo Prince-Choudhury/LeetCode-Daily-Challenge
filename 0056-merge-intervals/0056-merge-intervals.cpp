@@ -7,20 +7,25 @@ public:
 
         vector<int>temp = arr[0];
 
-        for(int i = 1; i<arr.size(); i++){
-            vector<int>a = arr[i];
+        int a = arr[0][0];
+        int b = arr[0][1];
 
-            if(temp[1]>=a[0]){
-                int ele = max(temp[1], a[1]);
-                temp[1] = ele;
+        for(int i = 1; i<arr.size(); i++){
+            int c = arr[i][0];
+            int d = arr[i][1];
+
+            if(b>=c){
+                int ele = max(b, d);
+                b = ele;
             }
             else{
-                ans.push_back(temp);
-                temp = a;
+                ans.push_back({a, b});
+                a = c;
+                b = d;
             }
         }
 
-        ans.push_back(temp);
+        ans.push_back({a,b});
 
         return ans;
 
