@@ -134,6 +134,7 @@ Happy coding and keep practicing!
 | [2465-shifting-letters-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -551,6 +552,7 @@ Happy coding and keep practicing!
 | [1755-defuse-the-bomb](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -576,6 +578,7 @@ Happy coding and keep practicing!
 | [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
@@ -604,6 +607,7 @@ Happy coding and keep practicing!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2868-continuous-subarrays) |
 ## Simulation
 |  |
