@@ -112,6 +112,7 @@ Happy coding and keep practicing!
 | [1940-maximum-xor-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2145-grid-game) |
@@ -638,6 +639,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2271-rearrange-array-elements-by-sign) |
