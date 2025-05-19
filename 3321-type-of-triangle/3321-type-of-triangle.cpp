@@ -1,26 +1,20 @@
 class Solution {
 public:
-    string triangleType(vector<int>& arr) {
-        if(arr[0] == arr[1] && arr[1] == arr[2]){
+    string triangleType(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+
+        if(nums[0] + nums[1] <= nums[2]){
+            return "none";
+        } 
+
+        if(nums[0] == nums[1] && nums[1] == nums[2]){
             return "equilateral";
-        }
+        } 
 
-        else if((arr[0]!=arr[1] && arr[1]!=arr[2]) && (arr[0]!=arr[2])){
-            if((((arr[0] + arr[1]) > arr[2]) && ((arr[0] + arr[2]) > arr[1])) && ((arr[1] + arr[2]) > arr[0])){
-                return "scalene";
-            }
-            else{
-                return "none";
-            }
+        if(nums[0] == nums[1] || nums[1] == nums[2]){
+            return "isosceles";
         }
-
-        else{
-            if((((arr[0] + arr[1]) > arr[2]) && ((arr[0] + arr[2]) > arr[1])) && ((arr[1] + arr[2]) > arr[0])){
-                return "isosceles";
-            }
-            else{
-                return "none";
-            }
-        }
+        
+        return "scalene";
     }
 };
