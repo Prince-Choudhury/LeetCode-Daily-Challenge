@@ -1,34 +1,34 @@
 class Solution {
 public:
+    void solve(vector<vector<int>>& arr, int i, int j) {
+        int n = arr.size();
+
+        int m = arr[0].size();
+
+        for (int col = 0; col < m; col++) {
+            arr[i][col] = 0;
+        }
+
+        for (int row = 0; row < n; row++) {
+            arr[row][j] = 0;
+        }
+    }
+
     void setZeroes(vector<vector<int>>& matrix) {
         int n = matrix.size();
+
         int m = matrix[0].size();
 
-        vector<pair<int, int>>arr;
+        vector<vector<int>>arr = matrix;
 
-        for(int i = 0; i<n; i++){
-            for(int j = 0; j<m; j++){
-                if(matrix[i][j] == 0){
-                    arr.push_back(make_pair(i, j));
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (matrix[i][j] == 0) {
+                    solve(arr, i, j);
                 }
-
             }
         }
 
-        int size = arr.size();
-
-        for(auto i : arr){
-            int row = i.first;
-            for(int c = 0; c<m; c++){
-                matrix[row][c] = 0;
-            }
-
-            int col = i.second;
-            for(int r = 0; r<n; r++){
-                matrix[r][col] = 0;
-            }
-        }
-
-        
+        matrix = arr;
     }
 };
