@@ -743,6 +743,7 @@ Happy coding and keep practicing!
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
 |  |
 | ------- |
@@ -802,6 +803,7 @@ Happy coding and keep practicing!
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -830,6 +832,7 @@ Happy coding and keep practicing!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
