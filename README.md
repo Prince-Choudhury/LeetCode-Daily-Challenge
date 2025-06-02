@@ -56,6 +56,7 @@ Happy coding and keep practicing!
 | [0118-pascals-triangle](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0189-rotate-array) |
@@ -307,6 +308,7 @@ Happy coding and keep practicing!
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0797-rabbits-in-forest) |
