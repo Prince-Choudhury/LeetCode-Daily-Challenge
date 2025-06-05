@@ -449,6 +449,7 @@ Happy coding and keep practicing!
 | [0812-rotate-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
@@ -934,6 +935,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0684-redundant-connection) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
