@@ -12,43 +12,18 @@
 class Solution {
 public:
 
-    int levelOrder(TreeNode* root){
-        int count = 0;
-        queue<TreeNode*>q;
-        q.push(root);
-        q.push(NULL);
-        count++;
-
-        while(q.size()>1){
-            TreeNode* front = q.front();
-            q.pop();
-
-            if(front == NULL){
-                count++;
-                q.push(NULL);
-            }
-
-            else{
-                if(front->left!= NULL){
-                    q.push(front->left);
-                }
-
-                if(front->right!= NULL){
-                    q.push(front->right);
-                }
-            }
-        }
-
-        return count;
-    }
-
-    int maxDepth(TreeNode* root) {
-
+    int solve(TreeNode* root){
         if(root == NULL){
             return 0;
         }
-        
-        int height = levelOrder(root);
-        return height;
+
+        int leftAns = solve(root->left);
+
+        int rightAns = solve(root->right);
+
+        return max(leftAns, rightAns) + 1;
+    }
+    int maxDepth(TreeNode* root) {
+        return solve(root);
     }
 };
