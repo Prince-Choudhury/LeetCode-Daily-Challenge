@@ -806,6 +806,7 @@ Happy coding and keep practicing!
 | [0112-path-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0684-redundant-connection) |
@@ -929,6 +930,7 @@ Happy coding and keep practicing!
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
