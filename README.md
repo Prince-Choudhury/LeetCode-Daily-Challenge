@@ -99,6 +99,7 @@ Happy coding and keep practicing!
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1524-string-matching-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1656-count-good-triplets) |
@@ -531,6 +532,7 @@ Happy coding and keep practicing!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1940-maximum-xor-for-each-query) |
@@ -672,6 +674,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
