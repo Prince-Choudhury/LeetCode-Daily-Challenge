@@ -331,6 +331,7 @@ Happy coding and keep practicing!
 | [1917-maximum-average-pass-ratio](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -497,6 +498,7 @@ Happy coding and keep practicing!
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
@@ -664,6 +666,7 @@ Happy coding and keep practicing!
 | [1502-construct-k-palindrome-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2308-divide-array-into-equal-pairs) |
@@ -931,6 +934,7 @@ Happy coding and keep practicing!
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Ordered Set
@@ -1089,6 +1093,7 @@ Happy coding and keep practicing!
 | ------- |
 | [1656-count-good-triplets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2998-count-symmetric-integers) |
