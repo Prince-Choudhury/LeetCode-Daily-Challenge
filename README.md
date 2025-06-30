@@ -101,6 +101,7 @@ Happy coding and keep practicing!
 | [1524-string-matching-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -297,6 +298,7 @@ Happy coding and keep practicing!
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -371,6 +373,7 @@ Happy coding and keep practicing!
 | [0368-largest-divisible-subset](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0780-max-chunks-to-make-sorted) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -460,6 +463,7 @@ Happy coding and keep practicing!
 | [0768-partition-labels](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0868-push-dominoes) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1972-rotating-the-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2265-partition-array-according-to-given-pivot) |
