@@ -535,6 +535,7 @@ Happy coding and keep practicing!
 | [3451-string-compression-iii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3617-find-the-original-typed-string-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3637-count-number-of-balanced-permutations) |
