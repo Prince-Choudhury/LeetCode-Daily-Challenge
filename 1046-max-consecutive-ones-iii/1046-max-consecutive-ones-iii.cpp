@@ -10,7 +10,7 @@ public:
                 zeroes++;
             }
 
-            while(zeroes>k){
+            if(zeroes>k){
                 if(arr[l] == 0){
                     zeroes--;
                 }
