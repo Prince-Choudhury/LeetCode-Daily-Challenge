@@ -87,6 +87,7 @@ Happy coding and keep practicing!
 | [0940-fruit-into-baskets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0966-binary-subarrays-with-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -556,6 +557,7 @@ Happy coding and keep practicing!
 | [0560-subarray-sum-equals-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -628,6 +630,7 @@ Happy coding and keep practicing!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0966-binary-subarrays-with-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -711,6 +714,7 @@ Happy coding and keep practicing!
 | [0594-longest-harmonious-subsequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
