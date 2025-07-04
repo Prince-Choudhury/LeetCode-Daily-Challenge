@@ -97,6 +97,7 @@ Happy coding and keep practicing!
 | [1293-three-consecutive-odds](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -419,6 +420,7 @@ Happy coding and keep practicing!
 | [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0797-rabbits-in-forest](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0797-rabbits-in-forest) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1500-count-largest-group) |
@@ -559,6 +561,7 @@ Happy coding and keep practicing!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -636,6 +639,7 @@ Happy coding and keep practicing!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1500-count-largest-group) |
@@ -716,6 +720,7 @@ Happy coding and keep practicing!
 | [0940-fruit-into-baskets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1755-defuse-the-bomb) |
