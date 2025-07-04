@@ -13,7 +13,7 @@ public:
 
             int changes = (r-l+1) - maxf;
 
-            while (changes > k) {
+            if (changes > k) {
                 freq[s[l] - 'A']--;
                 l++;
 
