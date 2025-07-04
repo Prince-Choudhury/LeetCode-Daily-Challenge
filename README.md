@@ -486,6 +486,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0038-count-and-say](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0038-count-and-say) |
 | [0415-add-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0768-partition-labels](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0768-partition-labels) |
@@ -618,6 +619,7 @@ Happy coding and keep practicing!
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0768-partition-labels) |
@@ -705,6 +707,7 @@ Happy coding and keep practicing!
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0940-fruit-into-baskets) |
