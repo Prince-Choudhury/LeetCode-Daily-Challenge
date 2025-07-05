@@ -89,6 +89,7 @@ Happy coding and keep practicing!
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0966-binary-subarrays-with-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1025-minimum-cost-for-tickets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1063-best-sightseeing-pair) |
@@ -636,6 +637,7 @@ Happy coding and keep practicing!
 | [0940-fruit-into-baskets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -692,6 +694,7 @@ Happy coding and keep practicing!
 | [0169-majority-element](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0594-longest-harmonious-subsequence) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1364-tuple-with-same-product) |
@@ -721,6 +724,7 @@ Happy coding and keep practicing!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
