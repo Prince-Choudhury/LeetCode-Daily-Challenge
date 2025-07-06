@@ -125,6 +125,7 @@ Happy coding and keep practicing!
 | [1940-maximum-xor-for-each-query](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
@@ -652,6 +653,7 @@ Happy coding and keep practicing!
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1091,6 +1093,7 @@ Happy coding and keep practicing!
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2434-design-a-number-container-system) |
 ## Database
 |  |
