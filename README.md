@@ -164,6 +164,7 @@ Happy coding and keep practicing!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2551-apply-operations-to-an-array) |
@@ -361,6 +362,7 @@ Happy coding and keep practicing!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -407,6 +409,7 @@ Happy coding and keep practicing!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2554-minimum-total-distance-traveled) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -497,6 +500,7 @@ Happy coding and keep practicing!
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/2699-count-the-number-of-fair-pairs) |
