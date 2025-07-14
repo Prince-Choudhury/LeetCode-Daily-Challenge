@@ -441,6 +441,7 @@ Happy coding and keep practicing!
 | [0539-minimum-time-difference](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0539-minimum-time-difference) |
 | [0797-rabbits-in-forest](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1500-count-largest-group) |
@@ -1109,6 +1110,7 @@ Happy coding and keep practicing!
 | [0234-palindrome-linked-list](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0859-design-circular-deque](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0860-design-circular-queue) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
