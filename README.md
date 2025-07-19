@@ -97,6 +97,7 @@ Happy coding and keep practicing!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
@@ -531,6 +532,7 @@ Happy coding and keep practicing!
 | [1160-letter-tile-possibilities](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -942,6 +944,7 @@ Happy coding and keep practicing!
 | [0820-find-eventual-safe-states](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1558-course-schedule-iv) |
@@ -1062,6 +1065,7 @@ Happy coding and keep practicing!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Choudhury/LeetCode-Daily-Challenge/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
